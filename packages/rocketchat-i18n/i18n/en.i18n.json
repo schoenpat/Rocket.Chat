@@ -2538,7 +2538,7 @@
   "Move_end_message": "`%s` - Move to the end of the message",
   "Msgs": "Msgs",
   "multi": "multi",
-  "multi_line": "multi line",
+  "multi_line": "multi line code",
   "mute-user": "Mute User",
   "mute-user_description": "Permission to mute other users in the same channel",
   "Mute_all_notifications": "Mute all notifications",
